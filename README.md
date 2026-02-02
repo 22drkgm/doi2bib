@@ -12,7 +12,7 @@ It uses the official `doi.org` API to ensure 100% accurate citations (matching `
 - **Cross-Platform**: Runs on Linux, Windows, and macOS.
 
 ## 📦 Installation
-
+![Ap Screenshot](Screenshot.png)
 ### Option 1: Download App (Linux)
 Go to the [Releases Page](../../releases) and download the latest executable.
 
