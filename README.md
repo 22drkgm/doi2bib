@@ -28,15 +28,15 @@ Then, give it permission to run:
 ```bash
 chmod +x doi2bib
 ./doi2bib
-
+```
 # Option 2: Build from Source
 ## You need Rust installed.
 
-Bash
+```Bash
 git clone [https://github.com/22drkgm/doi2bib.git](https://github.com/22drkgm/doi2bib.git)
 cd doi2bib
 cargo run --release
-
+```
 
 #  Call for Contributors (Windows / macOS / Android)
 We need your help! This application is built with Rust and egui, making it natively cross-platform. Currently, binaries are only provided for Linux.
